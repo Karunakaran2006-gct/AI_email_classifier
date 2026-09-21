@@ -1,0 +1,30 @@
+# Environment
+.env
+.env.*
+!.env.example
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
